@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+THOR SPINNER RESULT/
+*.original
+encrypt.py
+thor_loader.py
